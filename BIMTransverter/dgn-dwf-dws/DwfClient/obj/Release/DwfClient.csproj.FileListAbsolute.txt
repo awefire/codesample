@@ -1,0 +1,6 @@
+E:\PublishProjects\ConsoleApplication2\DwfClient\bin\Release\DwfClient.exe.config
+E:\PublishProjects\ConsoleApplication2\DwfClient\bin\Release\DwfClient.exe
+E:\PublishProjects\ConsoleApplication2\DwfClient\bin\Release\DwfClient.pdb
+E:\PublishProjects\ConsoleApplication2\DwfClient\bin\Release\HPSocketCS.dll
+E:\PublishProjects\ConsoleApplication2\DwfClient\obj\Release\DwfClient.exe
+E:\PublishProjects\ConsoleApplication2\DwfClient\obj\Release\DwfClient.pdb

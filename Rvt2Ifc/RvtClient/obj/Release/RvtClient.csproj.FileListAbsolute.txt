@@ -1,0 +1,7 @@
+E:\PublishProjects\ConsoleApplication2\RvtClient\bin\Release\RvtClient.exe.config
+E:\PublishProjects\ConsoleApplication2\RvtClient\bin\Release\RvtClient.exe
+E:\PublishProjects\ConsoleApplication2\RvtClient\bin\Release\RvtClient.pdb
+E:\PublishProjects\ConsoleApplication2\RvtClient\bin\Release\HPSocketCS.dll
+E:\PublishProjects\ConsoleApplication2\RvtClient\obj\Release\RvtClient.exe
+E:\PublishProjects\ConsoleApplication2\RvtClient\obj\Release\RvtClient.pdb
+E:\PublishProjects\ConsoleApplication2\RvtClient\obj\Release\RvtClient.csprojResolveAssemblyReference.cache

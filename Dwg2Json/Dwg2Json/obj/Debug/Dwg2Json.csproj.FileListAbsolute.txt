@@ -1,0 +1,8 @@
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Debug\Dwg2Json.exe.config
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Debug\Dwg2Json.exe
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Debug\Dwg2Json.pdb
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Debug\HPSocketCS.dll
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\obj\Debug\Dwg2Json.exe
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\obj\Debug\Dwg2Json.pdb

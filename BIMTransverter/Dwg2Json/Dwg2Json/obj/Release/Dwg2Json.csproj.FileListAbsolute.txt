@@ -1,0 +1,9 @@
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Release\Dwg2Json.exe.config
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Release\Dwg2Json.exe
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Release\Dwg2Json.pdb
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Release\HPSocketCS.dll
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\bin\Release\ICSharpCode.SharpZipLib.xml
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\obj\Release\Dwg2Json.exe
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\obj\Release\Dwg2Json.pdb
+E:\PublishProjects\ConsoleApplication2\Dwg2Json\obj\Release\Dwg2Json.csprojResolveAssemblyReference.cache

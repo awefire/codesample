@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>D:\Program Files\Autodesk\Revit 2018\AddIns\RvtIfc\RvtConverter.dll</Assembly>
+    //此处的HelloWorld.dll在项目生成后才会有，开始看不到
+
+    <AddInId>d0f682cb-9e36-4f32-a3a9-f4578e51d070</AddInId>
+    //此处的ID在解决方案管理器项目中Properties的AssemblyInfo.cs中可以查看
+
+    <FullClassName>RvtConverter.Class1</FullClassName>
+    //此处的HelloWorld为项目名，Class1为类名
+
+    <Text>IfcExporter</Text>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

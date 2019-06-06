@@ -1,0 +1,6 @@
+E:\PublishProjects\ConsoleApplication2\dgntest\bin\Release\dgntest.exe.config
+E:\PublishProjects\ConsoleApplication2\dgntest\bin\Release\dgntest.exe
+E:\PublishProjects\ConsoleApplication2\dgntest\bin\Release\dgntest.pdb
+E:\PublishProjects\ConsoleApplication2\dgntest\bin\Release\HPSocketCS.dll
+E:\PublishProjects\ConsoleApplication2\dgntest\obj\Release\dgntest.exe
+E:\PublishProjects\ConsoleApplication2\dgntest\obj\Release\dgntest.pdb

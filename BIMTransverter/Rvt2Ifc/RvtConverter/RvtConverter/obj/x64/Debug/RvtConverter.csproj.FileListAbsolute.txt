@@ -1,0 +1,6 @@
+E:\PublishProjects\RvtConverter\RvtConverter\bin\x64\Debug\RvtConverter.dll
+E:\PublishProjects\RvtConverter\RvtConverter\bin\x64\Debug\RvtConverter.pdb
+E:\PublishProjects\RvtConverter\RvtConverter\bin\x64\Debug\HPSocketCS.dll
+E:\PublishProjects\RvtConverter\RvtConverter\obj\x64\Debug\RvtConverter.dll
+E:\PublishProjects\RvtConverter\RvtConverter\obj\x64\Debug\RvtConverter.pdb
+E:\PublishProjects\RvtConverter\RvtConverter\obj\x64\Debug\RvtConverter.csprojResolveAssemblyReference.cache
